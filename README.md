@@ -1,8 +1,8 @@
-# Bundle Maker
+# BINARY MLM SOFTWARE
 
 ## Description
 
-**Bundle Maker** is a full-stack web application developed as a commissioned project for a client.  
+**BINARY MLM SOFTWARE** is a full-stack web application developed as a commissioned project for a client.  
 It allows users to browse products, create personalized bundles, and submit them for admin review.  
 Admins can manage users, products, and submissions through a dedicated admin panel.
 
